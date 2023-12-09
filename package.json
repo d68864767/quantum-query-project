@@ -1,0 +1,31 @@
+{
+  "name": "quantum-query-project",
+  "version": "1.0.0",
+  "description": "A JavaScript application designed to leverage the powerful data querying capabilities of the QuantumQuery library.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d68864767/quantum-query-project.git"
+  },
+  "keywords": [
+    "quantum",
+    "query",
+    "data",
+    "javascript"
+  ],
+  "author": "d68864767 <d68864767@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d68864767/quantum-query-project/issues"
+  },
+  "homepage": "https://github.com/d68864767/quantum-query-project#readme",
+  "dependencies": {
+    "quantum-query": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
